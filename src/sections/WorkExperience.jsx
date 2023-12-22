@@ -36,7 +36,7 @@ const WorkExperience = () => {
               color="blue"
               className="w-[20px] h-[20px]"
             />
-            Security and model updates
+            Security and module updates
           </li>
           <li className="flex gap-[10px] font-roboto text-[20px] items-center justify-start">
             <TbSquareArrowRightFilled
