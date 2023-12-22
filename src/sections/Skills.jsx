@@ -11,7 +11,7 @@ import {
 const Skills = () => {
   return (
     <section>
-      <h4 className="text-[24px] font-bold font-roboto">Skills</h4>
+      <h4 className="text-[24px] font-semibold font-roboto">Skills</h4>
       {/* making the card with the flex is the absolete, make the card with the grid */}
       <div className="gap-4 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6">
         <div className="bg-gray shadow-xl min-w-[160px] pt-[10px] rounded-md relative">

@@ -4,5 +4,14 @@ import nodejs from "./nodejs.png";
 import reactjs from "./reactjs.png";
 import wordpress from "./wordpress.png";
 import tailwindcss from "./tailwindcss.png";
+import gaiTech from "./gaiTech.png";
 
-export { javascript, controlVersion, nodejs, reactjs, wordpress, tailwindcss };
+export {
+  javascript,
+  controlVersion,
+  nodejs,
+  reactjs,
+  wordpress,
+  tailwindcss,
+  gaiTech,
+};

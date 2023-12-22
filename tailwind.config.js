@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {
         primary: "#080A16",
-        light_blue: "54DFE4",
+        blue: "#54DFE4",
         gray: "#D7DAD4",
       },
       fontSize: {

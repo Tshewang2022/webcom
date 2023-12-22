@@ -16,7 +16,7 @@ const App = () => {
       <div className="px-8 py-10 ">
         <Skills />
       </div>
-      <div>
+      <div className="px-8 py-10">
         <WorkExperience />
       </div>
       <div>
