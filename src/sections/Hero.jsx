@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../components/Button";
 
 const Hero = () => {
   return (
@@ -20,12 +21,13 @@ const Hero = () => {
             <h4 className="text-white pt-[32px] text-[24px] font-roboto">
               What i can do as the font-end developer
             </h4>
-            <ul className="text-white px-[25px]">
+            <ul className="text-white px-[25px] pb-16">
               <li>Team collaborations </li>
               <li>UI/UX design</li>
               <li>Font-end development with React,Tailwind and Javascript</li>
               <li>Responsive website design with wordpress</li>
             </ul>
+            <Button />
           </div>
         </div>
 
