@@ -31,7 +31,7 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="text-white ">this will contain the profile image</div>
+        <div className="text-white ">This page is under development.....</div>
       </div>
     </section>
   );
