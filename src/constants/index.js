@@ -1,11 +1,4 @@
-import {
-  controlVersion,
-  javascript,
-  nodejs,
-  react,
-  tailwind,
-  wordpress,
-} from "../assets";
+import { controlVersion, javascript, nodejs, wordpress } from "../assets";
 export const skills = [
   {
     title: "Control Version",
@@ -20,17 +13,16 @@ export const skills = [
     imgURL: nodejs,
   },
   {
-    title: "React.js",
-    imgURL: react,
-  },
-  {
-    title: "Tailwindcss",
-    imgURL: tailwind,
-  },
-  {
     title: "Wordpress",
     imgURL: wordpress,
   },
+];
+
+export const navlinks = [
+  { navlink: "Home", lable: "Home" },
+  { navlink: "Skills", lable: "Skills" },
+  { navlink: "Projects", lable: "Projects" },
+  { navlink: "Contacts", lable: "Contacts" },
 ];
 
 export const workExp = [{}];

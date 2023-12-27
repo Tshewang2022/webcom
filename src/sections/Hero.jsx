@@ -4,8 +4,8 @@ import Button from "../components/Button";
 const Hero = () => {
   return (
     <section>
-      <div className="flex flex-1 items-center justify-between">
-        <div className="pt-[40px] z-[100]">
+      <div className="flex flex-1 items-center justify-between mt-8">
+        <div className="pt-[40px]">
           <h3 className="text-[32px] font-bold text-white font-roboto">
             Think big, grow Smart
           </h3>

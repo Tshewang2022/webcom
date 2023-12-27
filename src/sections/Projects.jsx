@@ -3,7 +3,7 @@ import ProjectCards from "../components/ProjectCards";
 
 const Projects = () => {
   return (
-    <section>
+    <section id="Projects">
       <h3 className="text-[32px] font-semibold font-roboto">Projects</h3>
       <p className=" max-w-[768px] mb-[10px]">
         The following mentioned projects are created using wordpress and react.
